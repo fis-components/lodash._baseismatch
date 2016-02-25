@@ -1,0 +1,13 @@
+{
+    "name": "lodash._baseismatch",
+    "description": "The internal lodash function `baseIsMatch` exported as a module.",
+    "repos": "https://github.com/lodash/lodash.git",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "lodash._baseisequal": "^4.0.0",
+        "lodash._stack": "^4.0.0"
+    },
+    "main": "index.js",
+    "version": "4.0.1"
+}
